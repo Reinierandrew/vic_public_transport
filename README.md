@@ -18,4 +18,4 @@ The request is to present a summary  and visualisation of the analysis on Januar
 
 The team will obtain data sets through APIs and other available sources to aid in answering the above questions.
 
-A presentation of a summary of the project results will be given on JAnuary 17th to the PTV management team.
+A presentation of a summary of the project results will be given on January 17th to the PTV management team.
