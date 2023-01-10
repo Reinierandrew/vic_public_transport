@@ -9,10 +9,14 @@ David Jenkins
 Project Outline:
 PTV planning  team requested  Group2's support to  establish the relationship between current public transport infrastructure and population in Victorian suburbs. 
 The key questions the would like to have an answer on are:
-What is the current correlation between public transport availability and distance to the closest city CBD in Victoria.
-What are the top three suburbs in 2023 for public transport availability
-What are the top 5 areas/suburbs that will require the highest level of development.
-What number of stops and additional equipment will be required to reach the current “best of class” levels of the top suburbs of question 2
+ -  What is the current correlation between public transport availability and population.
+ -  What are the top three suburbs in 2023 for public transport availability
+    (additionally rule out CBD etc and look at reasons for correlation)
+ -  What are the top 5 areas/suburbs that will require the highest level of development.
+ - What number of stops and additional equipment will be required to reach the current “best of class” levels of the top suburbs of question 2
+   If there’s going to be 50% growth in x suburb - they’re going to need \
+   Population to pt stop ratio (eg, CDB has 1:1000 ratio)
+   cut the data into groups
 
 The request is to present a summary  and visualisation of the analysis on January  17 to aid PTV in future infrastructure planning.
 
