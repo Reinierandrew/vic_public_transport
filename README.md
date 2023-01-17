@@ -1,5 +1,14 @@
 Analysis of Public Transport to aid demand and capacity planning at PTV
 
+We read a csv for growth data from Victoria government to create a data frame with
+growth by suburb/area for the years 2016 to 2036 (Growth_data_suburbs.ipynb)
+The output was used to map the coordinates and produce a map (all_growth_map.png in /output). 
+We then created a datafile with the largest growth area and mapped these along with 
+the stations proposed by Dan Andrews in his future rail proposal (Map_with_stations.png)
+
+
+CONCLUSIONS:
+
 Team Members:
 Laszlo Kiss
 Zakia Afrin Aziz
